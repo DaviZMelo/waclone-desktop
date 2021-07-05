@@ -1,0 +1,36 @@
+{
+  "users": {
+    "masterUser": 0,
+    "allowedUsers": []
+  },
+  "groups": {
+    "targetGroupId": "",
+    "hostGroupId": "",
+    "targetGroupLink": ""
+  },
+  "links": {
+    "linkMode": false,
+    "linkMessage": ""
+  },
+  "cloning": {
+    "cloningDelay": "",
+    "cloningContactsToAddPerDelay": "",
+    "cloningContacts": []
+  },
+  "logsConfig": {
+    "logMode": false,
+    "logGroupId": ""
+  },
+  "logs": [
+    [
+      {
+        "logDate": "",
+        "logMessage": ""
+      }
+    ]
+  ],
+  "logsConfigs": {
+    "logGroupId": "",
+    "logMode": true
+  }
+}
