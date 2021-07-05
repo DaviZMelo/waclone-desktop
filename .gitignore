@@ -25,4 +25,9 @@ electron_build
 **.data.json
 **.node-persist**
 yarn.lock
+
+dist
+build
+core/api/dist
+core/electron/index.js
 # end managed
